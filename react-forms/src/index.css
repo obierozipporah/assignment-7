@@ -1,0 +1,15 @@
+.container {
+  max-width: 300px;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.error {
+  color: red;
+  margin-top: 10px;
+}
+
+
